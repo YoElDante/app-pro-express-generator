@@ -11,10 +11,14 @@
   "author": "Dante Marcos Delprato",
   "license": "MIT",
   "dependencies": {
+    "compression": "^1.8.0",
     "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
     "dotenv": "^16.0.3",
     "ejs": "^3.1.9",
     "express": "^4.18.2",
+    "helmet": "^8.1.0",
+    "http-errors": "^2.0.0",
     "morgan": "^1.10.0"
   }
 }
